@@ -1,0 +1,12 @@
+{
+  "name": "turkcraft-bedwars-bot",
+  "version": "1.0.0",
+  "description": "TURK CRAFT BedWars AI Bots",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.33.0"
+  }
+}
